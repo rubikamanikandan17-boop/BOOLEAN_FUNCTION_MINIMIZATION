@@ -1,4 +1,5 @@
-![WhatsApp Image 2025-10-10 at 10 41 45_cdf65019](https://github.com/user-attachments/assets/f8a22f58-f519-4641-b81e-1311483ac561)# BOOLEAN_FUNCTION_MINIMIZATION
+## BOOLEAN FUNCTION MINIMIZATION
+
 
 **AIM:**
 
@@ -17,11 +18,18 @@ Hardware – PCs, Cyclone II , USB flasher
 **Theory**
 
 **Logic Diagram**
-## bolean function 1
-(https://github.com/user-attachments/assets/5a87f601-55a4-45f2-ad29-7b6e7deba346)
+
+## boolean function 1
+
+![WhatsApp Image 2025-10-10 at 10 41 44_b3b84b5a](https://github.com/user-attachments/assets/9085dfa2-cc9d-4486-b6c2-29f410834cee)
+
+
 
 ## boolean function 2
-(https://github.com/user-attachments/assets/71322755-0967-46eb-9bb4-c99b340aa25f)
+
+
+![WhatsApp Image 2025-10-10 at 10 41 45_2f296a18](https://github.com/user-attachments/assets/b4d9eb2b-d86c-4d26-8ad2-4067d88bec25)
+
 **Procedure**
 
 1.	Type the program in Quartus software.
@@ -36,12 +44,7 @@ Hardware – PCs, Cyclone II , USB flasher
 
 
 **Program:**
-## boolean function 1
-(https://github.com/user-attachments/assets/f21a11cf-b6c5-4a8d-b6a1-7e2f9f22d2ae)
 
-
-## boolean function 2
-(https://github.com/user-attachments/assets/ae6710c3-ce9e-4781-a5c1-6a80854cf424)
 
 /* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 
@@ -51,18 +54,17 @@ Developed by: RegisterNumber:*/ 25008774
 **RTL realization**
 
 **Output:**
-## boolean function 1
-(https://github.com/user-attachments/assets/203f009e-f26c-497f-86e5-3756d8e8407c)
 
+## boolean function 1
+
+![WhatsApp Image 2025-10-10 at 10 41 45_094c00a0](https://github.com/user-attachments/assets/9450ca49-f5f5-40ae-818a-21e0ff157d1e)
 
 ## boolean function 2
-(https://github.com/user-attachments/assets/4c5e81c2-6771-409d-8c27-cdfbe1faf7fc)
 
 
+![WhatsApp Image 2025-10-10 at 10 41 44_dcf7e8f0](https://github.com/user-attachments/assets/52600ae3-2b8a-4214-97df-192e8462c09a)
 
-**RTL**
 
-**Timing Diagram**
 
 **Result:**
 
